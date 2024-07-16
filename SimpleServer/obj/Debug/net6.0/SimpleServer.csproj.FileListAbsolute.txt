@@ -1,0 +1,15 @@
+C:\Portfolio\SimpleServer\bin\Debug\net6.0\SimpleServer.exe
+C:\Portfolio\SimpleServer\bin\Debug\net6.0\SimpleServer.deps.json
+C:\Portfolio\SimpleServer\bin\Debug\net6.0\SimpleServer.runtimeconfig.json
+C:\Portfolio\SimpleServer\bin\Debug\net6.0\SimpleServer.dll
+C:\Portfolio\SimpleServer\bin\Debug\net6.0\SimpleServer.pdb
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.csproj.AssemblyReference.cache
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.AssemblyInfoInputs.cache
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.AssemblyInfo.cs
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.csproj.CoreCompileInputs.cache
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.dll
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\refint\SimpleServer.dll
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.pdb
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\SimpleServer.genruntimeconfig.cache
+C:\Portfolio\SimpleServer\obj\Debug\net6.0\ref\SimpleServer.dll
